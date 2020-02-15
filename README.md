@@ -46,3 +46,6 @@
 
 ### ВСР 1.4
 [ссылка](https://yadi.sk/i/YdCi1XIFa-_nuA)
+
+### Отчёт по работам
+[ссылка](https://github.com/strijovegor/Practic/blob/master/otchet_3kurs.docx)
