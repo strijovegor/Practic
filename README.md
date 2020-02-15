@@ -49,3 +49,6 @@
 
 ### Отчёт по работам
 [ссылка](https://github.com/strijovegor/Practic/blob/master/otchet_3kurs.docx)
+
+### Задание на практику
+[ссылка](https://github.com/strijovegor/Practic/blob/master/zadanie_3kurs.docx)
